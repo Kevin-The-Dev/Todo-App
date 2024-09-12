@@ -1,7 +1,3 @@
-## Live Demo
-Check out the live demo of the Todo App [here](https://todo-app-six-weld-71.vercel.app/).
-
-
 # Enhanced To-Do List Application
 
 ## Project Description
@@ -23,6 +19,9 @@ The Enhanced To-Do List is a responsive and dynamic web application built using 
 - **HTML**
 - **CSS**: For responsive and modern UI
 - **JavaScript**: For dynamic behavior and LocalStorage functionality
+  
+## Live Demo
+Check out the live demo of the Todo App [here](https://todo-app-six-weld-71.vercel.app/).
 
 
 ## Screenshots
